@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 
+//Test comment
 namespace HelloCS
 {
     class Program
@@ -14,6 +15,7 @@ namespace HelloCS
             if(!File.Exists(dictionary)){
                 Console.WriteLine($"could not find {dictionary}");
                 return;
+
             }
 
             var words = new List<string>();
