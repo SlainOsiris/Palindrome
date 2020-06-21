@@ -2,7 +2,6 @@
 using System.IO;
 using System.Collections.Generic;
 
-//Test comment
 namespace HelloCS
 {
     class Program
